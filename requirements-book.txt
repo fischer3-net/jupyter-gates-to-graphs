@@ -1,0 +1,9 @@
+# Jupyter Book — pinned to 1.x (2.x is incompatible with this repo)
+jupyter-book>=0.15,<1.0
+
+# Notebook execution
+numpy
+matplotlib
+sympy
+scipy
+networkx
