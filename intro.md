@@ -1,7 +1,12 @@
 # Logic Gates to Attack Graphs
+
+![fischer³ Education logo](assets/favicon3.svg "f3_logo")
+
 ## Discrete Mathematics for AI Security
 
 *The formal mathematics behind how AI systems reason, fail, and get exploited.*
+
+### Author: Robert Fischer (robert@fischer3.net)
 
 ---
 
