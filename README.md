@@ -1,6 +1,6 @@
 # Logic Gates to Attack Graphs
 
-![fischer3_logo"](/assets/favicon3.svg, "fischer3_logo")
+!["fischer3_logo"](/assets/favicon3.svg, "fischer3_logo")
 
 ## Discrete Mathematics for AI Security
 
