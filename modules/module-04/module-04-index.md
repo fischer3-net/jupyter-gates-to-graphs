@@ -123,4 +123,4 @@ reasons about.
 
 ---
 
-*fischer³ Education · [learn.fischer3.net](https://learn.fischer3.net)*
+*fischer³ Education · [courses.fischer3.net (coming soon)](https://courses.fischer3.net)*

@@ -84,4 +84,4 @@ in Module 05, and an invariant in Module 09, the structure is already familiar.
 
 ---
 
-*fischer³ Education · [learn.fischer3.net](https://learn.fischer3.net)*
+*fischer³ Education · [courses.fischer3.net (coming soon)](https://courses.fischer3.net)*
