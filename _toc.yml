@@ -7,25 +7,25 @@ root: intro
 parts:
   - caption: "Module 00 — Orientation"
     chapters:
-      - file: modules/module-00/index
+      - file: modules/module-00/module-00-index
       - file: modules/module-00/unit-01-proof-techniques
 
   - caption: "Module 01 — Propositional Logic & Boolean Algebra"
     chapters:
-      - file: modules/module-01/index
+      - file: modules/module-01/module-01-index
       - file: modules/module-01/unit-01-propositions-connectives
       - file: modules/module-01/unit-02-truth-tables
       - file: modules/module-01/unit-03-boolean-algebra-access-control
 
   - caption: "Module 02 — Predicate Logic & Quantifiers"
     chapters:
-      - file: modules/module-02/index
+      - file: modules/module-02/module-02-index
       - file: modules/module-02/unit-01-predicates-quantifiers
       - file: modules/module-02/unit-02-formalizing-security-properties
 
   - caption: "Module 03 — Sets, Relations & Functions"
     chapters:
-      - file: modules/module-03/index
+      - file: modules/module-03/module-03-index
       - file: modules/module-03/unit-01-sets-operations
       - file: modules/module-03/unit-02-relations-functions
       - file: modules/module-03/unit-03-bijections-crypto
@@ -39,38 +39,38 @@ parts:
 
   - caption: "Module 05 — Graph Theory II: Algorithms"
     chapters:
-      - file: modules/module-05/index
+      - file: modules/module-05/module-05-index
       - file: modules/module-05/unit-01-traversal-reachability
       - file: modules/module-05/unit-02-shortest-path-attack-graphs
       - file: modules/module-05/unit-03-zero-trust-segmentation
 
   - caption: "Module 06 — Trees & Recursion"
     chapters:
-      - file: modules/module-06/index
+      - file: modules/module-06/module-06-index
       - file: modules/module-06/unit-01-trees-definitions
       - file: modules/module-06/unit-02-parse-trees-prompt-injection
       - file: modules/module-06/unit-03-decision-trees-classifiers
 
   - caption: "Module 07 — Combinatorics & Counting"
     chapters:
-      - file: modules/module-07/index
+      - file: modules/module-07/module-07-index
       - file: modules/module-07/unit-01-counting-principles
       - file: modules/module-07/unit-02-adversarial-enumeration
 
   - caption: "Module 08 — Number Theory & Modular Arithmetic"
     chapters:
-      - file: modules/module-08/index
+      - file: modules/module-08/module-08-index
       - file: modules/module-08/unit-01-divisibility-modular-arithmetic
       - file: modules/module-08/unit-02-crypto-primitives
 
   - caption: "Module 09 — Automata & Formal Languages"
     chapters:
-      - file: modules/module-09/index
+      - file: modules/module-09/module-09-index
       - file: modules/module-09/unit-01-finite-automata
       - file: modules/module-09/unit-02-protocol-state-machines
       - file: modules/module-09/unit-03-regex-security
 
   - caption: "Module 10 — Capstone"
     chapters:
-      - file: modules/module-10/index
+      - file: modules/module-10/module-10-index
       - file: modules/module-10/unit-01-capstone-threat-model
