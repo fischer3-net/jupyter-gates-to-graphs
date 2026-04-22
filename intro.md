@@ -16,6 +16,8 @@ This course teaches rigorous discrete mathematics through the lens of AI securit
 
 This is not a "real-world connections" footnote at the end of a chapter. The AI and security framing *is* the motivation. The mathematics is how you reason precisely about it.
 
+If you are not mathematically inclined, but want know why mathematics needs to play a role in AI security, please see my article: !["Why Your AI Security Team Needs to Think Like Mathematicians"](manager-article-why-math.md)
+
 ---
 
 ## Who This Is For
