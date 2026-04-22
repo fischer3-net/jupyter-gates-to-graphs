@@ -64,7 +64,7 @@ This course is part of the fischer³ Education mathematics series. The companion
 
 ## Graded Exercises & CPE Credit
 
-Graded exercises and ISC2 CPE certificates are available at [learn.fischer3.net](https://learn.fischer3.net).
+Graded exercises and ISC2 CPE certificates are available at [courses.fischer3.net (coming soon)](https://courses.fischer3.net).
 
 ---
 

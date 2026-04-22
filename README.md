@@ -1,6 +1,6 @@
 # Logic Gates to Attack Graphs
 
-!["fischer3_logo"](/assets/favicon3.svg, "fischer3_logo")
+!["fischer3_logo"](/assets/favicon3.svg "fischer3_logo")
 
 ## Discrete Mathematics for AI Security
 
@@ -64,7 +64,11 @@ Every module connects a discrete math concept to a concrete AI or AI-security ap
 | Site generator | Jupyter Book 1.x (`>=0.15,<1.0`) |
 | Deployment | GitHub Pages via GitHub Actions |
 | Interactive execution | Google Colab (launch buttons) |
-| Graded exercises | Moodle at `learn.fischer3.net` |
+| Graded exercises | Moodle at `courses.fischer3.net` |
+
+### Live Site
+
+[gates2graphs.fischer3.net](https://gates2graphs.fischer3.net)
 
 ### Running Locally
 
@@ -77,4 +81,4 @@ Open `_build/html/index.html` in your browser.
 
 ---
 
-*fischer³ Education · [learn.fischer3.net](https://learn.fischer3.net)*
+*fischer³ Education · [courses.fischer3.net (coming soon)](https://courses.fischer3.net)*

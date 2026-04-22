@@ -127,4 +127,4 @@ operation: finding a path to a desired leaf by manipulating the tree structure.
 
 ---
 
-*fischer³ Education · [learn.fischer3.net](https://learn.fischer3.net)*
+*fischer³ Education · [courses.fischer3.net (coming soon)](https://courses.fischer3.net)*
