@@ -2,7 +2,7 @@
 # fischer³ Education
 
 title: "Logic Gates to Attack Graphs"
-author: "fischer³ Education"
+author: "Robert Fischer, fischer³ Education"
 logo: assets/logo.png   # add logo here when available
 
 # Colab launch buttons
@@ -20,7 +20,7 @@ html:
   use_repository_button: true
   use_issues_button: true
   use_edit_page_button: false
-  home_page_in_navbar: false
+  home_page_in_navbar: true
   favicon: ""
 
 # Execution — notebooks are not auto-executed at build time;
@@ -32,4 +32,5 @@ execute:
 sphinx:
   extra_extensions: []
   config:
+    copyright: "2026 fischer³ Education (fischer³.net)"
     mathjax_path: https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
