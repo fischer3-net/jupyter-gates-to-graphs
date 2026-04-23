@@ -4,6 +4,8 @@
 
 ## The Hidden Gap in AI Security Talent — and What to Do About It
 
+### Robert Fischer
+
 ---
 
 There is a conversation happening in every organisation that has deployed, or is planning to deploy, AI systems in production. It usually starts with a reasonable question from a manager or executive: *"Is this secure?"*
