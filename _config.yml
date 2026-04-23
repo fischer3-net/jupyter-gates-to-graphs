@@ -21,7 +21,7 @@ html:
   use_issues_button: true
   use_edit_page_button: false
   home_page_in_navbar: true
-  favicon: ""
+  favicon: assets/favicon3.svg # add favicon here when available
 
 # Execution — notebooks are not auto-executed at build time;
 # students run them interactively via Colab
